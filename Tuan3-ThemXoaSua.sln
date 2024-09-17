@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan3-ThemXoaSua", "Tuan3-ThemXoaSua.csproj", "{60CF863E-A712-49F2-B20A-7FE9506F59FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CF863E-A712-49F2-B20A-7FE9506F59FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CF863E-A712-49F2-B20A-7FE9506F59FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CF863E-A712-49F2-B20A-7FE9506F59FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CF863E-A712-49F2-B20A-7FE9506F59FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C08A758E-1B90-41ED-B07D-E0EEC254FB36}
+	EndGlobalSection
+EndGlobal

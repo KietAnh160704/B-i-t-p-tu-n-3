@@ -1,0 +1,10 @@
+D:\C#\Tuan3-ThemXoaSua\bin\Debug\Tuan3-ThemXoaSua.exe.config
+D:\C#\Tuan3-ThemXoaSua\bin\Debug\Tuan3-ThemXoaSua.exe
+D:\C#\Tuan3-ThemXoaSua\bin\Debug\Tuan3-ThemXoaSua.pdb
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3-ThemXoaSua.csproj.AssemblyReference.cache
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3_ThemXoaSua.Form1.resources
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3_ThemXoaSua.Properties.Resources.resources
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3-ThemXoaSua.csproj.GenerateResource.cache
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3-ThemXoaSua.csproj.CoreCompileInputs.cache
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3-ThemXoaSua.exe
+D:\C#\Tuan3-ThemXoaSua\obj\Debug\Tuan3-ThemXoaSua.pdb
